@@ -1,0 +1,10 @@
+{
+  "index": {
+    "submit": "Submit",
+    "send": "Send"
+  },
+  "common": {
+    "save": "Save",
+    "saveSetting": "Save Setting"
+  }
+}

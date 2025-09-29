@@ -1,0 +1,10 @@
+{
+  "index": {
+    "submit": "提交",
+    "send": "发送"
+  },
+  "common": {
+    "save": "保存",
+    "saveSetting": "保存设置"
+  }
+}
